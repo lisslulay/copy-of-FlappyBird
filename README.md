@@ -1,4 +1,4 @@
-# Flappy Bird
+# Flappy Birdsdf
 ![](https://img.shields.io/badge/jdk-1.8.0-FFB6C1.svg?&logo=github)
 ![](https://img.shields.io/github/v/release/kingyuluk/FlappyBird?color=FFB6C1&logo=github)
 ![](https://img.shields.io/github/license/kingyuluk/FlappyBird?color=FFB6C1&logo=github)
@@ -61,6 +61,7 @@
 [v1.2.1](https://github.com/kingyuluk/FlappyBird/tree/9429be613a21752d2c61e38ca7df87fb4a0b51b9) - July 12, 2020
 * 使用AudioClip类的方法播放连续的短音频可能会导致线程冲突使游戏卡顿，改用sun.audio类的AudioPlayer方法播放音频
   
+
 [v1.2.0](https://github.com/kingyuluk/FlappyBird/tree/ab33686c8c2ace54da3ddffe220b40a33100989f) - July 11, 2020
 * 现在水管可以移动了，移动型水管刷新的概率会随着当前游戏分数递增
 
